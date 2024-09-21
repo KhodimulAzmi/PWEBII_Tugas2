@@ -148,6 +148,7 @@ COMMIT;
    - **Data Permohonan Izin**: `tampil_permohonan_izin.php`
    - **Filter Tujuan Banyumas**: `tugas_banyumas.php`
    - **Filter Kelas 2-A**: `2-A.php`
+   - **Akses Juga Halaman Filter Lainnya!!**
 
 ## Koneksi Database
 Semua pengaturan koneksi database ada di file `connection.php`. Pastikan kamu mengatur database kamu sama kayak yang ada di code-nya.
@@ -159,13 +160,24 @@ Semua pengaturan koneksi database ada di file `connection.php`. Pastikan kamu me
 
 ## Output yang diharapkan 
 - Output dari `index.php`
-- Output dari `navbar.php`
-- Output dari `tampil_surat_tugas.php`
-- Output dari `tampil_permohonan_izin.php`
-- Output dari `tugas_Banyumas.php`
-- Output dari `2-A.php`
+  ![Index](https://github.com/user-attachments/assets/c2aeacde-5945-4ce5-aac6-92e0d132dbab)
 
-## Akhir Kata
+- Output dari `navbar.php`
+![Navbar_Kelas](https://github.com/user-attachments/assets/ada447d0-869d-4f97-a044-7a195c435aea)
+![Navbar_Tujuan](https://github.com/user-attachments/assets/77b19219-b522-4fbe-aac1-ca90586c5050)
+
+- Output dari `tampil_surat_tugas.php`
+![Tampil_Surat_Tugas](https://github.com/user-attachments/assets/d699eaf3-1d1c-4399-8a11-bf6f23402d64)
+
+- Output dari `tampil_permohonan_izin.php`
+![Tampil_Permohonan_Izin](https://github.com/user-attachments/assets/fdcfcb52-4198-4984-ab1c-955abf85c43b)
+
+- Output dari `tugas_Banyumas.php`
+![Banyumas](https://github.com/user-attachments/assets/c555a160-5560-4e80-ba8c-5b6c8106f0a1)
+
+- Output dari `2-A.php`
+![2-A](https://github.com/user-attachments/assets/1dbc3c50-4484-471d-9f6a-97a0dc2ec449)
+
 
 Selamat mencoba!
 
