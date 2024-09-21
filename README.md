@@ -16,7 +16,7 @@ Pada tugas ini, saya menggunakan database `tugas2_pweb2` yang memiliki tabel see
 <br>
 Kalo kamu mau copy kode-nya, kamu bisa download file-nya di atas atau copy aja dibawah ini :
 
-```
+```mysql
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
