@@ -16,8 +16,8 @@ class TampilBanyumas extends Tampiltugas{
     }
 }
 
-$semarang = new TampilBanyumas();
-$data = $semarang->tampilData();
+$banyumas = new TampilBanyumas();
+$data = $banyumas->tampilData();
 include 'navbar.php';
 ?>
 <!DOCTYPE html>
